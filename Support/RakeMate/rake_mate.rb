@@ -4,7 +4,7 @@ require "#{ENV["TM_SUPPORT_PATH"]}/lib/escape"
 require "#{ENV["TM_SUPPORT_PATH"]}/lib/ui"
 require "#{ENV["TM_SUPPORT_PATH"]}/lib/web_preview"
 
-require "run_rake_task"
+require_relative "run_rake_task"
 
 require "erb"
 include ERB::Util
