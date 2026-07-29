@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Language Server</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>settings</key>
+	<dict>
+		<key>lspCommand</key>
+		<string>ruby-lsp</string>
+	</dict>
+	<key>uuid</key>
+	<string>9E783279-13ED-4DC2-9F4E-7D300D9592DC</string>
+</dict>
+</plist>
